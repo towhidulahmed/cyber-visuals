@@ -9,3 +9,6 @@
 
 ## OSI 7 Layer with Example Protocol
 ![osi](OSI_example_protocol.gif)
+
+## Nmap Essentical Commands
+![osi](nmap_command.jpeg)
