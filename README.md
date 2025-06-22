@@ -6,3 +6,6 @@
 
 ## Secured and Insecured Ports
 ![ports](ports_secure_insecure.jpeg)
+
+## OSI 7 Layer with Example Protocol
+![osi](OSI_example_protocol.gif)
